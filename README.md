@@ -1,6 +1,7 @@
 # sass , bootstrap4 & Browsersync starter kit
 
-A starter project to get start with sass bootstrap4 and browsersync. it alternative to gulp and faster than gulp compiler.
+A starter project to get start with sass, bootstrap4 and browsersync. It alternative to gulp and faster than gulp compiler.
+Livereload is also working whenever there will be a change in html or css file
 
 
 ## Installation
